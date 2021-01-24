@@ -1,6 +1,8 @@
 # 3D-printed-Differential-robotic-wrist
 STEP files and BOM for 3D printed Differential robotic wrist
 
+You can check the wrist in action here:  [Youtube link ](https://www.youtube.com/watch?v=fCLbL_qN5hQ&ab_channel=PetarCrnjak) !
+
 Belts used are HTD 5M 520 
 Needed bearing: 4 times 25x32x4 and 2 times 35x47x7
 
