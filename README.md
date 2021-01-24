@@ -5,6 +5,7 @@ You can check the wrist in action here:  [Youtube link ](https://www.youtube.com
 
 Belts used are HTD 5M 520 
 Needed bearing: 4 times 25x32x4 and 2 times 35x47x7
+You also need bunch of M3 screws!
 
 Drivers used are S-Driver BLDC drivers made by me and are not yet open source, but you can experiment with this design and make it with different motors!
 
